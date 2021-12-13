@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{B85BB43B-6643-49ED-83A5-45B594CB3946}|Модульные тесты">
+  <MonoDevelop.Ide.ItemProperties.testMyClassMathSquareST PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyClass/ClassMathSquare.cs">
+    <Files>
+      <File FileName="MyClass/ClassMathSquare.cs" Line="68" Column="30" />
+      <File FileName="testMyClassMathSum/Test.cs" Line="12" Column="26" />
+      <File FileName="testMyClassMathSquareSQ/Test.cs" Line="10" Column="33" />
+      <File FileName="testMyClassMathSquareSC/Test.cs" Line="10" Column="35" />
+      <File FileName="testMyClassCustomAlg/Test.cs" Line="12" Column="13" />
+      <File FileName="testMyClassCustomAmp/Test.cs" Line="14" Column="36" />
+      <File FileName="testMyClassCustomRgbToHex/Test.cs" Line="16" Column="38" />
+      <File FileName="testMyClassCustomMultStr/Test.cs" Line="14" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyClass" expanded="True">
+            <Node name="MyClass" expanded="True">
+              <Node name="ClassMathSquare.cs" selected="True" />
+            </Node>
+            <Node name="testMyClassCustomMultStr" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="MyClass" expanded="True">
+            <Node name="testMyClassCustomAlg" expanded="True">
+              <Node name="testMyClassCustomAlg" expanded="True">
+                <Node name="Test" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="testMyClassCustomMultStr" expanded="True">
+              <Node name="testMyClassCustomMultStr" expanded="True">
+                <Node name="Test" expanded="True">
+                  <Node name="TestMethodMultStr" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

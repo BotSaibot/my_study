@@ -1,0 +1,8 @@
+/home/user/Projects/MyClass/MyClass/bin/Debug/netstandard2.0/MyClass.deps.json
+/home/user/Projects/MyClass/MyClass/bin/Debug/netstandard2.0/MyClass.dll
+/home/user/Projects/MyClass/MyClass/bin/Debug/netstandard2.0/MyClass.pdb
+/home/user/Projects/MyClass/MyClass/obj/Debug/netstandard2.0/MyClass.AssemblyInfoInputs.cache
+/home/user/Projects/MyClass/MyClass/obj/Debug/netstandard2.0/MyClass.AssemblyInfo.cs
+/home/user/Projects/MyClass/MyClass/obj/Debug/netstandard2.0/MyClass.csproj.CoreCompileInputs.cache
+/home/user/Projects/MyClass/MyClass/obj/Debug/netstandard2.0/MyClass.dll
+/home/user/Projects/MyClass/MyClass/obj/Debug/netstandard2.0/MyClass.pdb
